@@ -1,2 +1,3 @@
 second file 
 hello class
+3rd-line
